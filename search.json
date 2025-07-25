@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Posts",
+    "section": "",
+    "text": "(Coming soon)\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Greg Fedewa, PhD",
+    "section": "",
+    "text": "I am a computational biologist/bioinformatic scientist with 14+ years experience developing molecular biology and computational methods for high-throughput sequencing/NGS-assays; 4+ years building pipelines; 3+ years designing analytic frameworks to detect & measure biomarkers, and predict disease status & drug response from microbiomes.\n\nI have experience in genomics, transcriptomics, and proteomics; I have 3 years experience in industry at a microbiome start-up (Nuanced Health) where I was the founding member of the computational team building several Nextflow-based pipelines on AWS & GCP for sequencing, proteomics, and metabolic data, and then training machine learning models based on those same data; I have ~3 years experience working on algorithm development during a Post Doc (Centre for Pathogen evolution - U. Cambridge) studying the antigenic evolution (the co-evolution of a virus and its host’s immune response) of dengue virus. I also have experience doing NGS assay dev from my PhD (DeRisi Lab - UCSF)."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Greg Fedewa, PhD",
+    "section": "",
+    "text": "I am a computational biologist/bioinformatic scientist with 14+ years experience developing molecular biology and computational methods for high-throughput sequencing/NGS-assays; 4+ years building pipelines; 3+ years designing analytic frameworks to detect & measure biomarkers, and predict disease status & drug response from microbiomes.\n\nI have experience in genomics, transcriptomics, and proteomics; I have 3 years experience in industry at a microbiome start-up (Nuanced Health) where I was the founding member of the computational team building several Nextflow-based pipelines on AWS & GCP for sequencing, proteomics, and metabolic data, and then training machine learning models based on those same data; I have ~3 years experience working on algorithm development during a Post Doc (Centre for Pathogen evolution - U. Cambridge) studying the antigenic evolution (the co-evolution of a virus and its host’s immune response) of dengue virus. I also have experience doing NGS assay dev from my PhD (DeRisi Lab - UCSF)."
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "Greg Fedewa, PhD",
+    "section": "About this site",
+    "text": "About this site\nI am trying to put more of my stuff out in the public so I built this website. Here you can find some blog posts, info on some projects I am working on (coming soon), things I want to work on, and some links to the usual social media sites."
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Gregory Fedewa, PhD\n\nSummary\nBioinformatics scientist/Computational biologist. 14+ years experience developing molecular biology and computational methods for high-throughput sequencing/NGS-assays. 4+ years building pipelines. 3+ years designing analytic frameworks to detect & measure biomarkers, and predict disease status & drug response from microbiomes.\n\n\nExperience\nBioinformatics scientist, Ismagilov Group - Caltech; Pasadena, CA — 2024-2025\n\nBuilt & managed the lab’s Nextflow pipelines (shotgun DNA, 16S, NGS BCL conversion, RNA & DE, MAG assembly).\nTrained lab members on using best practices in bioinformatics and the HPC.\nCo-wrote grants submitted to NIH, and DARPA-H.\n\nBioinformatics scientist, Nuanced Health Inc; Los Angeles, CA — 2021-2024\n\nDeveloped and maintained NGS pipelines, ETL, metagenomic, metaproteomic, and metametabolomic pipelines to be configurable, scalable, and cost effective. These pipelines processed 1000s of samples later analyzed by myself and others.\nBuilt predictive models (ML) to demonstrate the discovery platform’s clinical relevance and its potential for biomarker discovery.\nAnalyzed large scale metagenomic microbiome datasets (more than 800 samples) and worked with management team to build a data-driven selection of samples that became the foundation of the company’s discovery platform.\nAnalyzed large scale metagenomic and metaproteomic datasets (100s of samples) to quantify diverse baseline molecular phenotypes of company’s discovery platform, and to find biomarkers of disease & drug response.\nPresented results of experiments to company, and the board of directors to help them to make data-based decisions.\nWorked in a team to setup and maintain cloud (AWS & GCS) infrastructure using a Infrastructure as code paradigm (Terraform) to ensure teammates had access to needed resources while following standard security practices.\n\nPostdoctoral researcher, Derek J Smith Lab - Uni of Cambridge; Cambridge, UK — 2018-2021\n\nDeveloped novel predictive algorithms to deconvolute high-dimensional immunological/antigenic data into component signals using multidimensional scaling (deconvoluted antigenic cartography) - used to model subpopulations of antibodies and predict evolving immune responses to evolving antigens.\nCollaborated on multi-institutional projects using above methods to interpret patterns of immune response and pathogen evolution for dengue virus, and influenza virus.\n\nPhd Candidate, Joseph L DeRisi Lab - UCSF; San Francisco, CA — 2012-2018\n\nDesigned and implemented a NGS analysis pipeline in Python to quantify viral genome mutation frequencies across virus evolution/time-series experiments.\nWorked with collaborators on the design of experiments to test and validate viral (Ebola virus) evolution in BSL-4 lab.\nDemonstrated intra-sample genomic variability of high-priority viral metagenomic samples can be used to correctly identify virus samples and set a baseline for later genomic comparisons at BSL-4 lab.\n\n\n\nEducation\nPhD, Biological and Medical Informatics - UCSF, San Francisco, CA — 2018\nBS, Biochemistry & Molecular Biology - Michigan State University, East Lansing, MI — 2009\n\n\nSkills & Expertise\nComputational Bio: Experience building models using different data types (genomic/NGS/WGS/DNAseq, transcriptomic/RNAseq, flow cytometry, protein structure, metagenomic, proteomics, metabolomics) to explain patterns in disease & drug responses, and pathogen & immune-response antigenic evolution.\nBioinformatics/NGS: Experience with common NGS tools, workflows, and data formats for Illumina, variant calling/SNVs, ribosome profiling, DESeq, RNA-Seq, & metagenomics such as biopython, bowtie2, STAR, DESeq2, samtools/bedtools/VCFtools, FastQC, BLAST, ClustalW, UCSC genome browser, Picardtools, biobakery, QIIME2, GATK, PDB, UniProt, NCBI, PyMOL, TCGA\nStatistical Programming & Data Science: Experienced user of Python’s SciPy/NumPy/Pandas/Jupyter/scikit-learn ecosystem and of R’s tidyverse/dplyr/tibble ecosystem. Additional experience with workflow libraries (Nextflow/Snakemake), MySQL/SQL, machine learning libraries (TensorFlow, Keras, PyTorch, PyCarrot), dimensionality reduction techniques (MDS, PCA, UMAP, tSNE), and Bayesian statistics modeling (Stan, R’s brms, rethinking)\nData Visualization: Proponent of clear, well thought out visualizations to allow for quick, intuitive, and unbiased understanding of the data. I prefer working in Python (matplotlib, seaborn, plotly), or R (ggplot2, plotly)\nSoftware Dev: Experience working on Python packages and R/Shiny tools. Additional experience in HTML/CSS, Ruby, JavaScript, C/C++, Docker, Amazon Web Service, Google Cloud Service, Bash, Linux, HPC, Slurm, Apptainer, Groovy, Git/Github, pytest\n\n\nSelected Publications\nEbola virus, but not Marburg virus, replicates efficiently and without required adaptation in boid snake cells. Fedewa, G., Radoshitzky, S. R., Chī, X., Dŏng, L., et al. (2018). Virus Evolution 4(2), vey034 https://doi.org/10.1093/ve/vey034\nMultiplexed Metagenomic Deep Sequencing To Analyze the Composition of High-Priority Pathogen Reagents. Wilson, M. R.†, Fedewa, G.†, Stenglein, M. D., Olejnik, J., Rennick, L. J., Nambulli, S., et al. (2016). mSystems, 1(4), e00058–16. http://doi.org/10.1128/mSystems.00058-16\n†co-first authors\n*Full list available at: https://orcid.org/0000-0002-3448-3819"
+  },
+  {
+    "objectID": "questions.html",
+    "href": "questions.html",
+    "title": "Conundrums & questions I am curious about",
+    "section": "",
+    "text": "I sometimes think of questions that I can’t quickly find an answer to and think it would be fun to work on them so I started a collection here.\n\nScience questions\n\nMicrobiome \n\nHow many genes are influenced by the gut microbiome?\n\n\n\nInfectious Disease \n\nWhat is the worst airport for an infectous disease to start near?\n\n\n\n\nHobby questions\n\nCoffee \n\nHow does the pattern of blades on a coffee grinder affect particle size?\n\nCan you model/predict particle size distributions based on the grinder pattern?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Github\n  \n  \n    \n      Bluesky\n  \n  \n      ORCID\n  \n  \n    \n     LinkedIn\n  \n\n      \nI’m a Bioinformatic Scientist interested in microbes.\nI’ve worked at the Ismagilov Group (Caltech), Nuanced Health Inc, The Centre for Pathogen Evolution (U Cambridge, UK), & the DeRisi Lab (UCSF).\nMost of my research has been framed around the genetics of microbes. My PhD work focused on detecting SNVs in virus genomes. Next, my post doc work focused on the co- (or maybe the better term is competing) evolution of viruses and human immune responses to them. Then at Nuanced Health, I focused on building Nextflow pipelines & discovery of microbiome-based determinants for various clinically relevant phenotypes. Most recently I was building more pipelines and mentoring students in the lab on bioinformatic best practices."
+  }
+]
